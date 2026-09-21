@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "SEWLAB",
+    "slug": "sewlab",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "resizeMode": "contain"
+    },
+    "android": {
+      "package": "com.sewlab.app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.sewlab.app"
+    }
+  }
+}
